@@ -4,11 +4,6 @@ A full-stack chat application that allows multiple users to send and receive mes
 
 **Live Demo:** (https://chatapplication-qkn5.onrender.com/chat)
 
-![Chat Application Screenshot](screenshot.png)  
-*alt: Screenshot of the Real-Time Chat Application UI*
-
----
-
 ## How It's Made
 
 **Tech Stack:**  
@@ -41,6 +36,3 @@ Key details:
 - **Frontend Persistence:** Managed theme and chat history using localStorage for a better UX.  
 - **Full-Stack Integration:** Combined backend, frontend, and deployment into a single working application, enhancing understanding of the full lifecycle.
 
----
-
-This project showcases the ability to build and deploy a full-stack application with real-time features, making it a solid demonstration of practical web development skills.
